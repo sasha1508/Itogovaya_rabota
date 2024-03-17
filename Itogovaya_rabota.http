@@ -1,0 +1,6 @@
+@Itogovaya_rabota_HostAddress = http://localhost:5187
+
+GET {{Itogovaya_rabota_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
